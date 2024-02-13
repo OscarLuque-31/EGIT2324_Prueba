@@ -17,7 +17,7 @@ public class Persona {
         System.out.println("¡Feliz cumpleaños! Ahora tienes " + edad + " años.");
     }
 
-    // Getters y setters
+    // Getters y setterss
     public String getNombre() {
         return nombre;
     }
