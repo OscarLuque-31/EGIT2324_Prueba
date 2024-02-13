@@ -51,4 +51,11 @@ public class Persona {
                 ", edad=" + edad +
                 '}';
     }
+    
+ // Método DatosPersona
+    public void DatosPersona() {
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Apellidos: " + apellidos);
+        System.out.println("Edad: " + edad);
+    }
 }
